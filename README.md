@@ -2,10 +2,11 @@
 
 # 👋 Hi, I'm Erljan Rodrigo
 
-💻 Software Engineer <br/>
-🇺🇸 U.S. Army Veteran <br/>
-🌱 Lifelong Learner  <br/>
-🛠️ Passionate about building impactful tech <br/>
+💻 **Software Engineer** <br/>
+🇺🇸 **U.S. Army Veteran** <br/>
+🌱 **Lifelong Learner**  <br/>
+🛠️ **Passionate about building impactful tech** <br/>
+🚀 **Growth-Oriented** <br/>
 
 
 ## 🌐 Socials:
