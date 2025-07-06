@@ -26,3 +26,8 @@
 [![](https://visitcount.itsvg.in/api?id=Erljan&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# Project demos
+- Fusion Finance (https://youtu.be/Z1rv9NDgNbk)
+- ***Hackathon*** EmberShield (Wildfire Tracking Trajectory): https://youtu.be/zU2zeMQDVNg
+- Event Master (https://youtu.be/2tsnx83NNCE)
