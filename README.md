@@ -19,15 +19,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Erljan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erljan&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Erljan&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Project demos
+- Fusion Finance (https://youtu.be/Z1rv9NDgNbk)
+- ***Hackathon*** EmberShield (Wildfire Tracking Trajectory): https://youtu.be/zU2zeMQDVNg
+- Event Master (https://youtu.be/2tsnx83NNCE)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Erljan&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# Project demos
-- Fusion Finance (https://youtu.be/Z1rv9NDgNbk)
-- ***Hackathon*** EmberShield (Wildfire Tracking Trajectory): https://youtu.be/zU2zeMQDVNg
-- Event Master (https://youtu.be/2tsnx83NNCE)
